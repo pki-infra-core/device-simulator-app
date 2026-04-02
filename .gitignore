@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+.env
+.gocache/
+bin/
+coverage.out
+device-simulator
+identity/
+tmp/
+certs/
